@@ -9,11 +9,11 @@
 
 | Foto | Nome | Função | GitHub |
 |------|------|--------|--------|
-| <img src="https://github.com/user-attachments/assets/243bf7ab-ea73-432c-85a4-643389f2e94a" width="80px"> | Manuela Brito Migri | Scrum Master | [@ManuelaBrito](https://github.com/ManuelaBrito) |
+| <img src="https://github.com/user-attachments/assets/4002729f-9f24-4d8b-ad8f-2671a098aa43)" width="80px"> | Manuela Brito Migri | Scrum Master | [@ManuelaBrito](https://github.com/ManuelaBrito) |
 | <img src="https://github.com/user-attachments/assets/3d17edb8-639d-4dca-9c5f-8ac8cd3cc8de" width="80px"> | Ana Letícia França | Product Owner | [@ana-franca-01](https://github.com/ana-franca-01) |
-| <img src="https://github.com/user-attachments/assets/foto-jhonatan.jpg" width="80px"> | Jhonatan Rossi | Desenvolvedor | [@JhowRossii](https://github.com/JhowRossii) |
-| <img src="https://github.com/user-attachments/assets/foto-elder.jpg" width="80px"> | Elder Henrique Silva | Desenvolvedor | [@3usder](https://github.com/3usder) |
-| <img src="https://github.com/user-attachments/assets/foto-joao.jpg" width="80px"> | João Pedro Menegasso | Desenvolvedor | [@menegasso0](https://github.com/menegasso0) |
+| <img src="" width="80px"> | Jhonatan Rossi | Desenvolvedor | [@JhowRossii](https://github.com/JhowRossii) |
+| <img src="https://github.com/user-attachments/assets/f9e69821-801d-43b6-a2d1-46d6b309634d" width="80px"> | Elder Henrique Silva | Desenvolvedor | [@3usder](https://github.com/3usder) |
+| <img src="" width="80px"> | João Pedro Menegasso | Desenvolvedor | [@menegasso0](https://github.com/menegasso0) |
 | <img src="https://github.com/user-attachments/assets/a0e6c2e9-e6c1-4550-90d4-6eb1b14f440c" width="80px"> | Pedro Henrique Quirino | Desenvolvedor | [@pedroquirino](https://github.com/pedroquirino) |
 | <img src="https://github.com/user-attachments/assets/fa3567f2-7d2c-4cab-b4cb-3aa6b740e98b" width="80px"> | Giovanna Marques Rodrigues | Desenvolvedora | [@Markeis24](https://github.com/Markeis24) |
 | <img src="https://github.com/user-attachments/assets/61a25ba7-cb55-4ee9-8125-f21726ac8480" width="80px"> | Guilherme Valim | Desenvolvedor | [@guivalim](https://github.com/guivalim) |
