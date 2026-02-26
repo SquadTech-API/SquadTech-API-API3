@@ -1,9 +1,9 @@
-# API III
+# *Application Programming Interface*
 
-## 📋 Desafio Proposto
+##  Desafio Proposto
 
 
-## 🎯 Objetivo
+##  Objetivo
 
 ## 👥 Equipe
 | Nome | Função | GitHub |
@@ -13,19 +13,19 @@
 | *Jhonatan Rossi* | *Desenvolvedor* | @JhowRossii |
 | *Elder Henrique Silva* | *Desenvolvedor* | @3usder |
 | *João Pedro Menegasso* | *Desenvolvedor* | @menegasso0 |
-| *Pedro Henrique Quirino* | *Desenvolvedor* | @usuario |
+| *Pedro Henrique Quirino* | *Desenvolvedor* | @upedroquirino |
 | *Giovanna Marques Rodrigues* | *Desenvolvedor* | @Markeis24 |
 | *Guilherme Valim* | *Desenvolvedor* | @guivalim |
 
-## 📅 Cronograma das Sprints
+##  Cronograma das Sprints
 | Sprint | Período | Entregas Principais |
 |--------|---------|---------------------|
-| Sprint 1 |  | •  |
-| Sprint 2 |  | •  |
-| Sprint 3 |  | •  |
+| Sprint 1 | 16/03-05/04 | •  |
+| Sprint 2 | 13/04-03/05 | •  |
+| Sprint 3 | 11/05-31/05 | •  |
 
 
-## 🛠️ Ferramentas de Gestão
+## Ferramentas de Gestão
 
 ### Gerenciamento de Projeto
 *Ferramenta escolhida para gestão das Stories e Tarefas:*
