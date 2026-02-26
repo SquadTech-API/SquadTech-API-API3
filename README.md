@@ -8,7 +8,7 @@
 ## 👥 Equipe
 | Foto | Nome | Função | GitHub |
 |------|------|--------|--------|
-|![Foto Manuela Brito](https://github.com/user-attachments/assets/243bf7ab-ea73-432c-85a4-643389f2e94a) | *Manuela Brito Migri* | *Scrum Master* | @ManuelaBrito |
+|<img scr="https://github.com/user-attachments/assets/243bf7ab-ea73-432c-85a4-643389f2e94a" width="300px"> | *Manuela Brito Migri* | *Scrum Master* | @ManuelaBrito |
 |![Foto Ana Letícia](https://github.com/user-attachments/assets/3d17edb8-639d-4dca-9c5f-8ac8cd3cc8de) | *Ana Letícia França* | *Product Onwer* | @ana-franca-01 |
 || *Jhonatan Rossi* | *Desenvolvedor* | @JhowRossii |
 || *Elder Henrique Silva* | *Desenvolvedor* | @3usder |
