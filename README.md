@@ -9,7 +9,7 @@
 
 | Foto | Nome | Função | GitHub |
 |------|------|--------|--------|
-| <img src="https://github.com/user-attachments/assets/4002729f-9f24-4d8b-ad8f-2671a098aa43)" width="80px"> | Manuela Brito Migri | Scrum Master | [@ManuelaBrito](https://github.com/ManuelaBrito) |
+| <img src="https://github.com/user-attachments/assets/4002729f-9f24-4d8b-ad8f-2671a098aa43" width="80px"> | Manuela Brito Migri | Scrum Master | [@ManuelaBrito](https://github.com/ManuelaBrito) |
 | <img src="https://github.com/user-attachments/assets/3d17edb8-639d-4dca-9c5f-8ac8cd3cc8de" width="80px"> | Ana Letícia França | Product Owner | [@ana-franca-01](https://github.com/ana-franca-01) |
 | <img src="" width="80px"> | Jhonatan Rossi | Desenvolvedor | [@JhowRossii](https://github.com/JhowRossii) |
 | <img src="https://github.com/user-attachments/assets/f9e69821-801d-43b6-a2d1-46d6b309634d" width="80px"> | Elder Henrique Silva | Desenvolvedor | [@3usder](https://github.com/3usder) |
