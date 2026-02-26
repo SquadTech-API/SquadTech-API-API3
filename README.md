@@ -13,7 +13,7 @@
 | *Jhonatan Rossi* | *Desenvolvedor* | @JhowRossii |
 | *Elder Henrique Silva* | *Desenvolvedor* | @3usder |
 | *João Pedro Menegasso* | *Desenvolvedor* | @menegasso0 |
-| *Pedro Henrique Quirino* | *Desenvolvedor* | @upedroquirino |
+| *Pedro Henrique Quirino* | *Desenvolvedor* | @pedroquirino |
 | *Giovanna Marques Rodrigues* | *Desenvolvedor* | @Markeis24 |
 | *Guilherme Valim* | *Desenvolvedor* | @guivalim |
 
