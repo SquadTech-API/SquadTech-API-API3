@@ -46,6 +46,16 @@
 | Sprint 2 | US-02: *Descrição* | • TASK-003: • TASK-004:  |
 | Sprint 3 | US-03: *Descrição* | • TASK-005: • TASK-006:  |
 
+### Estrutura das Branches
+
+|_ Main
+|
+|
+|______ Backend
+|       
+|
+|
+|
+|______ Frontend
 
 
-### Estrutura de Branches
