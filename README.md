@@ -48,14 +48,5 @@
 
 ### Estrutura das Branches
 
-|_ Main
-|
-|
-|______ Backend
-|       
-|
-|
-|
-|______ Frontend
 
 
